@@ -1,4 +1,4 @@
-# simple-calculator# Simple Calculator 🧮
+Simple Calculator 🧮
 
 A beginner-friendly web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
 
