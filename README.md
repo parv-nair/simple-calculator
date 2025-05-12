@@ -1,4 +1,6 @@
 # Simple Calculator 🧮
+link: https://parv-nair.github.io/simple-calculator/
+
 
 A beginner-friendly web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
 
